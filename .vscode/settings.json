@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "miscdevice.h": "c",
+        "fs.h": "c",
+        "unistd.h": "c"
+    }
+}
